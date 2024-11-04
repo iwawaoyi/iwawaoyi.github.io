@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://iwawaoyi.github.io/Cph/sitemap_index.txt
+Sitemap: https://iwawaoyi.github.io/Ixf/sitemap_index.txt
+Sitemap: https://iwawaoyi.github.io/Ovq/sitemap_index.txt
+Sitemap: https://iwawaoyi.github.io/sSB/sitemap_index.txt
